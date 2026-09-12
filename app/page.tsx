@@ -336,9 +336,9 @@ function Hero() {
         </p>
 
         <h1 className="hero-title max-w-6xl text-6xl font-light leading-[0.88] tracking-[-0.075em] text-white md:text-[142px]">
-          Escape into
+          Find Your
           <br />
-          quiet luxury.
+          Stillness.
         </h1>
 
         <div className="hero-btn magnetic mt-8 flex max-w-3xl flex-col gap-6 md:flex-row md:items-center">
